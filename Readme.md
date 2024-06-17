@@ -1,5 +1,5 @@
 
-# 3D-Semantic Segmentation Literature Review
+# 3D Semantic Segmentation Literature Review
 
 ## Point Based Methods
 
