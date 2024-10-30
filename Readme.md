@@ -172,13 +172,6 @@ The Point Based Methods use the raw 3D points to extract meaningful features for
 |  13 |               2023 | Haznedar, Bulent; Bayraktar, Rabia; Ozturk, Ali Emre; Arayici, Yusuf                                                                   | [Implementing PointNet for point cloud segmentation in the heritage context](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-022-00844-w)                                                                                                                                                                                                                               |        |
 | 135 |               2024 | Zeng, Ziyin; Qiu, Huan; Zhou, Jian; Dong, Zhen; Xiao, Jinsheng; Li, Bijun                                                              | [PointNAT: Large-Scale Point Cloud Semantic Segmentation via Neighbor Aggregation With Transformer](https://ieeexplore.ieee.org/abstract/document/10543016)                                                                                                                                                                                                                                     |        |
 
-\
-\
-\
-
-\
-\
-\
 
 ## Dimensionality Reduction Based Methods
 
@@ -248,13 +241,6 @@ The Dimensionality Reduction Based Methods transform the 3D point cloud into a l
 | 60 | 2023.0             | Shuai, Hui; Liu, Qingshan                                                                                                                             | [Geometry-Injected Image-Based Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/10091548/)                                                                                                                                                 |        |
 | 45 |                    | Tosteberg, Patrik                                                                                                                                     | [Semantic Segmentation of Point Clouds using Deep Learning]()                                                                                                                                                                                                     |        |
 
-\
-\
-\
-
-\
-\
-\
 
 ## Descritization Based Methods
 
@@ -318,12 +304,7 @@ The Descritization Based methods transform the point cloud into a discrete repre
 | 54 | 2023.0             | Li, Jiale; Dai, Hang; Han, Hao; Ding, Yong                                                                                                           | [MSeg3D: Multi-Modal 3D Semantic Segmentation for Autonomous Driving](https://ieeexplore.ieee.org/document/10203290/)                                                                                                                                                                                                                                   |        |
 | 49 | 2018.0             | Hou, Ji; Dai, Angela; Niessner, Matthias                                                                                                             | [3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans]()                                                                                                                                                                                                                                                                                            |        |
 
-\
-\
-\
-\
-\
-\
+
 
 ## Graph Based Methods
 
@@ -366,14 +347,6 @@ The Graph based mehtods transform the point cloud into a graph and use the nodes
 | 24 |               2023 | Xue, Wenhao; Yang, Yang; Li, Lei; Huang, Zhongling; Wang, Xinggang; Han, Junwei; Zhang, Dingwen                                                                                                              | [Weakly supervised point cloud segmentation via deep morphological semantic information embedding](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12239)                                                                                                                                                                             |        |
 | 23 |               2023 | Matrone, F.; Felicetti, A.; Paolanti, M.; Pierdicca, R.                                                                                                                                                      | [EXPLAINING AI: UNDERSTANDING DEEP LEARNING MODELS FOR HERITAGE POINT CLOUDS](https://isprs-annals.copernicus.org/articles/X-M-1-2023/207/2023/)                                                                                                                                                                                                   |        |
 
-\
-\
-\
---
-\
-\
-\
-
 
 ## Hybrid Based Methods
 
@@ -385,13 +358,6 @@ The Hybrid Based methods combine two or more from the previously described categ
 |  0 |               2022 | Cen, Jun; Yun, Peng; Zhang, Shiwei; Cai, Junhao; Luan, Di; Wang, Michael Yu; Liu, Ming; Tang, Mingqian | [Open-world Semantic Segmentation for LIDAR Point Clouds](http://arxiv.org/abs/2207.01452)                                                                                                                                                            |        |
 |  1 |               2023 | Li, Jianan; Dong, Qiulei                                                                               | [Open-Set Semantic Segmentation for Point Clouds via Adversarial Prototype Framework](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Open-Set_Semantic_Segmentation_for_Point_Clouds_via_Adversarial_Prototype_Framework_CVPR_2023_paper.html) |        |
 
-\
-\
-\
---
-\
-\
-\
 
 ### Discretization - Point - Dimensionality Reduction Based Methods
 |    |   Publication Year | Author                                                                                                                                                  | Title                                                                                                                                             | Code   |
@@ -404,13 +370,7 @@ The Hybrid Based methods combine two or more from the previously described categ
 |  6 |               2022 | Peng, Kunyu; Fei, Juncong; Yang, Kailun; Roitberg, Alina; Zhang, Jiaming; Bieder, Frank; Heidenreich, Philipp; Stiller, Christoph; Stiefelhagen, Rainer | [MASS: Multi-Attentional Semantic Segmentation of LiDAR Data for Dense Top-View Understanding]()                                                  |        |
 |  5 |               2023 | Liu, Youquan; Chen, Runnan; Li, Xin; Kong, Lingdong; Yang, Yuchen; Xia, Zhaoyang; Bai, Yeqi; Zhu, Xinge; Ma, Yuexin; Li, Yikang; Qiao, Yu; Hou, Yuenan  | [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](http://arxiv.org/abs/2309.05573)                            |        |
 
-\
-\
-\
---
-\
-\
-\
+
 
 ### Graph - Discretization Based Methods
 |    |   Publication Year | Author                                      | Title                                                                                                           | Code   |
@@ -418,13 +378,6 @@ The Hybrid Based methods combine two or more from the previously described categ
 |  0 |               2020 | Lyu, Yecheng; Huang, Xinming; Zhang, Ziming | [Learning to segment 3d point clouds in 2d image space]()                                                       |        |
 |  1 |               2020 | Mei, Jilin; Zhao, Huijing                   | [Scene Context Based Semantic Segmentation for 3D LiDAR Data in Dynamic Scene](http://arxiv.org/abs/2003.13926) |        |
 
-\
-\
-\
---
-\
-\
-\
 
 ### Discretization - Point Based Methods
 |    |   Publication Year | Author                                                                                                                     | Title                                                                                                                                                                                                                                                                                                | Code   |
@@ -452,13 +405,6 @@ The Hybrid Based methods combine two or more from the previously described categ
 | 19 |               2023 | Kuriyal, Abhishek; Kumar, Vaibhav; Lohani, Bharat                                                                          | [pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation]()                                                                                                                                                                              |        |
 | 21 |               2023 | Zhou, Junjie; Xiong, Yongping; Chiu, Chinwai; Liu, Fangyu; Gong, Xiangyang                                                 | [Fat: Field-Aware Transformer for 3D Point Cloud Semantic Segmentation]()                                                                                                                                                                                                                            |        |
 
-\
-\
-\
---
-\
-\
-\
 
 ### Point - Graph Based Methods
 |    |   Publication Year | Author                                                                                                      | Title                                                                                                                                                                                                                                                 | Code   |
@@ -482,13 +428,7 @@ The Hybrid Based methods combine two or more from the previously described categ
 | 10 |               2023 | Zhang, S.; Huang, W.; Chen, Y.; Zhang, S.; Zhang, W.; Li, J.                                                | [SPDC: A SUPER-POINT AND POINT COMBINING BASED DUAL-SCALE CONTRASTIVE LEARNING NETWORK FOR POINT CLOUD SEMANTIC SEGMENTATION](https://isprs-archives.copernicus.org/articles/XLVIII-1-W1-2023/571/2023/)                                              |        |
 | 17 |               2023 | Wan, Jie; Zeng, Ziyin; Qiu, Qinjun; Xie, Zhong; Xu, Yongyang                                                | [PointNest: Learning Deep Multi-Scale Nested Feature Propagation for Semantic Segmentation of 3D Point clouds](https://ieeexplore.ieee.org/document/10251503/)                                                                                        |        |
 
-\
-\
-\
---
-\
-\
-\
+
 
 ### Discetization - Dimensionality Reduction Based Methods
 |    |   Publication Year | Author                                                                                           | Title                                                                                                                     | Code   |
@@ -499,13 +439,7 @@ The Hybrid Based methods combine two or more from the previously described categ
 |  3 |               2023 | Saltori, Cristiano; Ošep, Aljoša; Ricci, Elisa; Leal-Taixé, Laura                                | [Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation](http://arxiv.org/abs/2304.11705) |        |
 |  4 |               2023 | Jiang, Feng; Gao, Heng; Qiu, Shoumeng; Zhang, Haiqiang; Wan, Ru; Pu, Jian                        | [Knowledge Distillation from 3D to Bird's-Eye-View for LiDAR Semantic Segmentation](http://arxiv.org/abs/2304.11393)      |        |
 
-\
-\
-\
---
-\
-\
-\
+
 
 ### Dimensionality Reduction - Point Based Methods
 |    |   Publication Year | Author                                                                                                               | Title                                                                                                                                                                                                                                                                                                                                                    | Code   |
@@ -523,15 +457,11 @@ The Hybrid Based methods combine two or more from the previously described categ
 |  5 |               2023 | Guo, Ziyu; Li, Xianzhi; Heng, Pheng Ann                                                                              | [Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training](http://arxiv.org/abs/2302.14007)                                                                                                                                                                                                                                            |        |
 | 11 |               2023 | Xing, Bowei; Ying, Xianghua; Wang, Ruibin; Yang, Jinfa; Chen, Taiyan                                                 | [Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/25400)                                                                                                                                                                                                             |        |
 
-\
-\
-\
---
-\
-\
-\
+
 
 ### Traditional Methods
+
+The Traditional methods rely on handcrafted features. The following table presents the collected papers of the Traditional methods:
 
 |    |   Publication Year | Author                                                                                                                                                      | Title                                                                                                                                                                                                             | Code   |
 |---:|-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
