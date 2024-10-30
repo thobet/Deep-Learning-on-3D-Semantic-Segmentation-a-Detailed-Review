@@ -29,9 +29,10 @@ Please find the preprint at [arXiv]()
 
 # 3D Semantic Segmentation
 
+## Point Based methods
+
 The Point Based Methods use the raw 3D points to extract meaningful features for 3DSS. The following table present the collected papers of the Point-Based methods:
 
-## Point Based methods
 |     |   Publication Year | Author                                                                                                                                 | Title                                                                                                                                                                                                                                                                                                                                                                                           | Code   |
 |----:|-------------------:|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
 |   0 |               2017 | Charles, R. Qi; Su, Hao; Kaichun, Mo; Guibas, Leonidas J.                                                                              | [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://ieeexplore.ieee.org/document/8099499/)                                                                                                                                                                                                                                                                    |        |
