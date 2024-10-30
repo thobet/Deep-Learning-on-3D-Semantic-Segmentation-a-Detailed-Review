@@ -175,12 +175,15 @@ The Point Based Methods use the raw 3D points to extract meaningful features for
 \
 \
 \
-The Dimensionality Reduction Based Methods transform the 3D point cloud into a lower dimensional space e.g., images, perform semantic segmentation into that space and finally projects the labels back into 3D space. The following table presents the collected papers of the Dimensionality Reduction Based methods:
+
 \
 \
 \
 
 ## Dimensionality Reduction Based Methods
+
+The Dimensionality Reduction Based Methods transform the 3D point cloud into a lower dimensional space e.g., images, perform semantic segmentation into that space and finally projects the labels back into 3D space. The following table presents the collected papers of the Dimensionality Reduction Based methods:
+
 |    | Publication Year   | Author                                                                                                                                                | Title                                                                                                                                                                                                                                                             | Code   |
 |---:|:-------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
 | 21 | 2017.0             | Boulch, Alexandre; Saux, Bertrand Le; Audebert, Nicolas                                                                                               | [Unstructured Point Cloud Semantic Labeling Using Deep Segmentation Networks](https://diglib.eg.org/handle/10.2312/3dor20171047)                                                                                                                                  |        |
@@ -248,12 +251,15 @@ The Dimensionality Reduction Based Methods transform the 3D point cloud into a l
 \
 \
 \
-The Descritization Based methods transform the point cloud into a discrete representation without dimensionality reduction and then apply the convolution operation for 3DSS. The following table presents the collected papers of the Descritization Based methods:
+
 \
 \
 \
 
 ## Descritization Based Methods
+
+The Descritization Based methods transform the point cloud into a discrete representation without dimensionality reduction and then apply the convolution operation for 3DSS. The following table presents the collected papers of the Descritization Based methods:
+
 |    | Publication Year   | Author                                                                                                                                               | Title                                                                                                                                                                                                                                                                                                                                                   | Code   |
 |---:|:-------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
 | 16 | 2015.0             | Zhang, Richard; Candra, Stefan A.; Vetter, Kai; Zakhor, Avideh                                                                                       | [Sensor fusion for semantic segmentation of urban scenes]()                                                                                                                                                                                                                                                                                             |        |
@@ -315,12 +321,14 @@ The Descritization Based methods transform the point cloud into a discrete repre
 \
 \
 \
-The Graph based mehtods transform the point cloud into a graph and use the nodes and the edges of the graph to extract meaningful features for 3DSS. The following table presents the collected papers of the Graph Based methods:
 \
 \
 \
 
 ## Graph Based Methods
+
+The Graph based mehtods transform the point cloud into a graph and use the nodes and the edges of the graph to extract meaningful features for 3DSS. The following table presents the collected papers of the Graph Based methods:
+
 |    |   Publication Year | Author                                                                                                                                                                                                       | Title                                                                                                                                                                                                                                                                                                                                              | Code   |
 |---:|-------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
 | 15 |               2017 | Qi, Xiaojuan; Liao, Renjie; Jia, Jiaya; Fidler, Sanja; Urtasun, Raquel                                                                                                                                       | [3d graph neural networks for rgbd semantic segmentation]()                                                                                                                                                                                                                                                                                        |        |
@@ -368,6 +376,9 @@ The Graph based mehtods transform the point cloud into a graph and use the nodes
 
 
 ## Hybrid Based Methods
+
+The Hybrid Based methods combine two or more from the previously described categories. The following tables present the collected papers of the Hybrid Based methods:
+
 ### All methods
 |    |   Publication Year | Author                                                                                                 | Title                                                                                                                                                                                                                                                 | Code   |
 |---:|-------------------:|:-------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
