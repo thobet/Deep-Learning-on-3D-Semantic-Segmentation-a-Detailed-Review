@@ -25,7 +25,7 @@ including a quick classification of over 400 3DSS methods, using the proposed ta
 Please find the preprint at [arXiv]()
 
 <h2> The proposed Taxonomy Scheme</h2>
-<img src="./figures/Taxonomy_Scheme_np.svg">
+<img src="./figures/Taxonomy_Scheme_wt.svg">
 
 # 3D Semantic Segmentation
 
