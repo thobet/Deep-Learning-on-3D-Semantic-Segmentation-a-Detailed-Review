@@ -27,6 +27,9 @@ Please find the preprint at [arXiv]()
 <h2> 3D Semantic Segmentation Taxonomy Scheme</h2>
 <img src="./figures/Taxonomy_Scheme_Figure.png">
 
+Abbreviations: Attention Mechanism and Transformers (Attention M. & Transformers), Discretization Based Methods (D), Dimensionality Reduction Based
+Methods (DR), Graph Based Methods (G), Point Based Methods (P)
+
 # 3D Semantic Segmentation
 
 ## Point Based methods
