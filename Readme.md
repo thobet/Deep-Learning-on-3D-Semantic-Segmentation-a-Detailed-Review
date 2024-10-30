@@ -5,6 +5,20 @@
 
 <hr style="color: #333; height: 2px; width: 85%">
 
+<h2> Abstract </h2>
+<p> In this paper an exhaustive review and comprehensive analysis of recent and former deep learning methods in
+3D Semantic Segmentation (3DSS) is presented. In the related literature, the taxonomy scheme used for the
+classification of the 3DSS deep learning methods is ambiguous. Based on the taxonomy schemes of 9 existing review
+papers, a new taxonomy scheme of the 3DSS deep learning methods is proposed, aiming to standardize it and
+improve the comparability and clarity across related studies. Furthermore, an extensive overview of the available
+3DSS indoor and outdoor datasets is provided along with their links. The core part of the review is the detailed
+presentation of recent and former 3DSS deep learning methods and their classification using the proposed taxonomy
+scheme along with their GitHub repositories. Additionally, a brief but informative analysis of the evaluation metrics
+and loss functions used in 3DSS is included. Finally, a fruitful discussion of the examined 3DSS methods and datasets,
+is presented to foster new research directions and applications in the field of 3DSS. Supplementary, to this review a
+GitHub repository is provided (https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-
+Detailed-Review) including a quick classification of over 400 3DSS methods, using the proposed taxonomy scheme. </p>
+
 [arXiv]()
 
 </div>
