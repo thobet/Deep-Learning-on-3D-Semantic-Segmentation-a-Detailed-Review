@@ -29,7 +29,7 @@ Please find the preprint at [arXiv]()
 
 # 3D Semantic Segmentation
 
-The Point Based Methods use the raw 3D points to extract meaningful features for 3DSS.
+The Point Based Methods use the raw 3D points to extract meaningful features for 3DSS. The following table present the collected papers of the Point-Based methods:
 
 ## Point Based methods
 |     |   Publication Year | Author                                                                                                                                 | Title                                                                                                                                                                                                                                                                                                                                                                                           | Code   |
@@ -174,7 +174,7 @@ The Point Based Methods use the raw 3D points to extract meaningful features for
 \
 \
 \
-The Dimensionality Reduction Based Methods transform the 3D point cloud into a lower dimensional space e.g., images, perform semantic segmentation into that space and finally projects the labels back into 3D space.
+The Dimensionality Reduction Based Methods transform the 3D point cloud into a lower dimensional space e.g., images, perform semantic segmentation into that space and finally projects the labels back into 3D space. The following table presents the collected papers of the Dimensionality Reduction Based methods:
 \
 \
 \
@@ -247,7 +247,7 @@ The Dimensionality Reduction Based Methods transform the 3D point cloud into a l
 \
 \
 \
---
+The Descritization Based methods transform the point cloud into a discrete representation without dimensionality reduction and then apply the convolution operation for 3DSS. The following table presents the collected papers of the Descritization Based methods:
 \
 \
 \
@@ -314,7 +314,7 @@ The Dimensionality Reduction Based Methods transform the 3D point cloud into a l
 \
 \
 \
---
+The Graph based mehtods transform the point cloud into a graph and use the nodes and the edges of the graph to extract meaningful features for 3DSS. The following table presents the collected papers of the Graph Based methods:
 \
 \
 \
