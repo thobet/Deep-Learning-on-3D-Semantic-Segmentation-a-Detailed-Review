@@ -1,3 +1,14 @@
+<div align="center">
+
+<h1>Deep Learning on 3D Semantic Segmentation: a Detailed Review</h1>
+<p>This repo contains a quick classification of over 400 3D Semantic Segmentation papers using the Taxonomy Scheme proposed in the Deep Learning on 3D Semantic Segmentation: a Detailed Review paper </p>
+
+<hr style="color: #333; height: 2px; width: 85%">
+
+[arXiv]()
+
+</div>
+
 # 3D Semantic Segmentation
 
 ## Point Based methods
