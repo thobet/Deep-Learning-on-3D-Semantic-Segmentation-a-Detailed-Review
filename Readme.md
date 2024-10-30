@@ -18,8 +18,8 @@ presentation of recent and former 3DSS deep learning methods and their classific
 scheme along with their GitHub repositories. Additionally, a brief but informative analysis of the evaluation metrics
 and loss functions used in 3DSS is included. Finally, a fruitful discussion of the examined 3DSS methods and datasets,
 is presented to foster new research directions and applications in the field of 3DSS. Supplementary, to this review a
-GitHub repository is provided (https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-
-Detailed-Review) including a quick classification of over 400 3DSS methods, using the proposed taxonomy scheme. </p>
+GitHub repository is provided (https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-Detailed-Review) 
+including a quick classification of over 400 3DSS methods, using the proposed taxonomy scheme. </p>
 </div>
 
 [arXiv]()
