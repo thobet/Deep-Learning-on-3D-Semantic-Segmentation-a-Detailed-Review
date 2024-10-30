@@ -4,7 +4,9 @@
 <p>This repo contains a quick classification of over 400 3D Semantic Segmentation papers using the Taxonomy Scheme proposed in the Deep Learning on 3D Semantic Segmentation: a Detailed Review paper </p>
 
 <hr style="color: #333; height: 2px; width: 85%">
+</div>
 
+<div align="justify">
 <h2> Abstract </h2>
 <p> In this paper an exhaustive review and comprehensive analysis of recent and former deep learning methods in
 3D Semantic Segmentation (3DSS) is presented. In the related literature, the taxonomy scheme used for the
@@ -18,10 +20,11 @@ and loss functions used in 3DSS is included. Finally, a fruitful discussion of t
 is presented to foster new research directions and applications in the field of 3DSS. Supplementary, to this review a
 GitHub repository is provided (https://github.com/thobet/Deep-Learning-on-3D-Semantic-Segmentation-a-
 Detailed-Review) including a quick classification of over 400 3DSS methods, using the proposed taxonomy scheme. </p>
+</div>
 
 [arXiv]()
 
-</div>
+
 
 # 3D Semantic Segmentation
 
