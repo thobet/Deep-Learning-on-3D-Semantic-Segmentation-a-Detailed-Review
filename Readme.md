@@ -29,6 +29,8 @@ Please find the preprint at [arXiv]()
 
 # 3D Semantic Segmentation
 
+The Point Based Methods use the raw 3D points to extract meaningful features for 3DSS.
+
 ## Point Based methods
 |     |   Publication Year | Author                                                                                                                                 | Title                                                                                                                                                                                                                                                                                                                                                                                           | Code   |
 |----:|-------------------:|:---------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------|
@@ -172,7 +174,7 @@ Please find the preprint at [arXiv]()
 \
 \
 \
---
+The Dimensionality Reduction Based Methods transform the 3D point cloud into a lower dimensional space e.g., images, perform semantic segmentation into that space and finally projects the labels back into 3D space.
 \
 \
 \
