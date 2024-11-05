@@ -22,7 +22,7 @@ GitHub repository is provided (https://github.com/thobet/Deep-Learning-on-3D-Sem
 including a quick classification of over 400 3DSS methods, using the proposed taxonomy scheme. </p>
 </div>
 
-Please find the preprint at [arXiv]()
+Please find the preprint at [arXiv](https://arxiv.org/abs/2411.02104)
 
 <h2> 3D Semantic Segmentation Taxonomy Scheme</h2>
 <img src="./figures/Taxonomy_Scheme_Figure.png">
